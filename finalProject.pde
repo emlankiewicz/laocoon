@@ -9,7 +9,7 @@ Follow all on screen prompts.
 
 An exploration into taking out the human element from an anti-anxiety program.
 Distress is treated as a variable rather than an emotion or feeling. Inspired 
-by Classical motifs (and the biproduct of taking art history and computer 
+by Classical motifs (and the byproduct of taking art history and computer 
 science courses back-to-back). In the myth of the Trojan war the tragic 
 character Laocoön famously warns, referring to the Trojan Horse, "Beware of 
 Greeks bearing gifts." He proceeds to cause a scene and raise alarm in the 
